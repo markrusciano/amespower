@@ -1,0 +1,24 @@
+{
+  "name": "amespower",
+  "version": "0.0.1",
+  "description": "Fetches, stores, and transfers current and historical power usage for the city of Ames",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markrusciano/amespower.git"
+  },
+  "author": "Mark Rusciano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markrusciano/amespower/issues"
+  },
+  "homepage": "https://github.com/markrusciano/amespower#readme"
+}
